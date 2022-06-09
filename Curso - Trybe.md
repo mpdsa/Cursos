@@ -10,6 +10,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 1: Introdução - Unix & Shell
 
+- [X] 1-1: _Fundamentos do Desenvolvimento Web_
+- [X] 1-2: _Introdução - Unix & Shell_
 - [X] 1-3: _Unix & Bash - Part 1_
 - [X] 1-4: _Unix & Bash - Part 2_
 - [X] 1-5: _Shell Script_
@@ -30,25 +32,27 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 4: Introdução - JavaScript
 
-- [X] 4-1: _JavaScript - Primeiros passos_
-- [X] 4-2: _JavaScript - Array e loop For_
-- [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [X] 4-4: _JavaScript - Objetos e funções_
-- [X] 4-5: _[Projeto - Playground Functions](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Playground_Functions)_
+- [X] 4-1: _Introdução - JavaScript_
+- [X] 4-2: _JavaScript - Primeiros passos_
+- [X] 4-3: _JavaScript - Array e loop For_
+- [X] 4-4: _JavaScript - Lógica de Programação e Algoritmos_
+- [X] 4-5: _JavaScript - Objetos e funções_
+- [X] 4-6: _[Projeto - Playground Functions](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Playground_Functions)_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto Bônus - Meme Generator]()_
-- [X] 5-6: _[Projeto - Arte com Pixels](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Pixels_Art)_
-- [X] 5-7: _[Projeto - Lista de tarefas](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Todo_List)_
-- [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
+- [X] 5-5: _Fundamentos - JavaScript - Projetos_
+- [ ] 5-6: _[Projeto Bônus - Meme Generator]()_
+- [X] 5-7: _[Projeto - Arte com Pixels](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Pixels_Art)_
+- [X] 5-8: _[Projeto - Lista de tarefas](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Todo_List)_
+- [ ] 5-9: _[Projeto Bônus - Adivinhe a Cor]()_
+- [ ] 5-10: _[Projeto Bônus - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avançado
+##### Bloco 6: HTML e CSS Avançado: Forms, Flexbox e Responsivo
 
 - [X] 6-1: _HTML & CSS - Forms_
 - [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -64,19 +68,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 7-3: _Testes unitários em JavaScript_
 - [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Unit_Tests)_
 
-##### Bloco 8: JavaScript ES6
+##### Bloco 8: Higher Order Functions do JavaScript ES6
 
-- [X] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [X] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [X] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [X] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [X] 8-5: _[Projeto - Zoo functions](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Zoo_Functions)_
+- [X] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
+- [X] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [X] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [X] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [X] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [X] 8-6: _[Projeto - Zoo functions](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Zoo_Functions)_
 
-##### Bloco 9: Assincronicidade & Callbacks
+##### Bloco 9: JavaScript e Testes Assíncronos
 
 - [X] 9-1: _JavaScript Assíncrono e Callbacks_
 - [X] 9-2: _JavaScript Promises_
-- [X] 9-3: _[Projeto - Carrinho de Compras](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Shopping_Cart)_
+- [X] 9-3: _JavaScript Assíncrono - Fetch API e async/await_
+- [X] 9-4: _[Projeto - Carrinho de Compras](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Fundamentos--Shopping_Cart)_
 
 ##### Bloco 10: Jest
 
@@ -88,12 +94,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - React
+- [X] 11-1: _Introdução - Front-end_
+- [X] 11-2: _Introdução - React_
+- [X] 11-3: _'Hello, world!' no React!_
+- [X] 11-4: _Componentes React_
+- [X] 11-5: _[Projeto - Movie Cards Library](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Front_End--Movie_Cards_Library)_
 
-- [X] 11-1: _'Hello, world!' no React!_
-- [X] 11-2: _Componentes React_
-- [X] 11-3: _[Projeto - Movie Cards Library](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Front_End--Movie_Cards_Library)_
-
-##### Bloco 12: React
+##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 
 - [X] 12-1: _Components com estado_
 - [X] 12-2: _Eventos e formulários no React_
@@ -111,19 +118,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 14-1: _Metodologias Ágeis_
 - [X] 14-2: _[Projeto em Grupo - Frontend Online Store](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Front_End--Online_Store)_
 
-##### Bloco 15: Testes em React
+##### Bloco 15: Testes automatizados em React
 
-- [X] 15-1: _Testando React com a React Testing Library_
-- [X] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [X] 15-3: _[Projeto - Testes em React](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Front_End--React_Testing_Library)_
+- [X] 15-1: _RTL (React Testing Library) - Primeiros passos_
+- [X] 15-2: _RTL - Mocks e Inputs_
+- [X] 15-3: _RTL - Testando React Router_
+- [X] 15-4: _[Projeto - Testes em React](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Front_End--React_Testing_Library)_
 
 ##### Bloco 16: Introdução ao Redux
 
-- [X] 16-1: _Introdução ao Redux_
-- [X] 16-2: _React com Redux - Parte 1_
-- [X] 16-3: _React com Redux - Prática_
-- [X] 16-4: _React com Redux - Parte 2_
-- [X] 16-5: _Testes síncronos com React-Redux_
+- [X] 16-1: _Introdução ao Redux - O estado global da aplicação_
+- [X] 16-2: _Usando o Redux no React_
+- [X] 16-3: _Usando o Redux no React - Prática_
+- [X] 16-4: _Usando o Redux no React - Actions Assíncronas_
+- [X] 16-5: _Testes com React-Redux_
 - [X] 16-6: _[Projeto - Trybe Wallet](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Front_End--Wallet)_
 
 ##### Bloco 17: Projeto React
@@ -144,48 +152,49 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
+##### Bloco 20: Introdução à SQL
+- [X] 20-1: _Introdução - Back-end_
+- [X] 20-2: _Introdução - Bancos de dados relacionais_
+- [X] 20-3: _Banco de dados SQL_
+- [X] 20-4: _Encontrando dados em um banco de dados_
+- [X] 20-5: _Filtrando dados de forma específica_
+- [X] 20-6: _Manipulando tabelas_
+- [X] 20-7: _[Projeto - All For One](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--All_For_One)_
 
-- [X] 20-1: _Banco de dados SQL_
-- [X] 20-2: _Encontrando dados em um banco de dados_
-- [X] 20-3: _Filtrando dados de forma específica_
-- [X] 20-4: _Manipulando tabelas_
-- [X] 20-5: _[Projeto - All For One](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--All_For_One)_
-
-##### Bloco 21: Bancos de dados relacionais
+##### Bloco 21:  Funções SQL, JOINs e Normalização
 
 - [X] 21-1: _Funções mais usadas no SQL_
 - [X] 21-2: _Descomplicando JOINs e UNIONs_
 - [X] 21-3: _Stored Routines & Subqueries_
 - [X] 21-4: _[Projeto - Vocabulary Booster](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--Vocabulary_Booster)_
 
-##### Bloco 22: Bancos de dados relacionais
+##### Bloco 22: Normalização e Modelagem de Banco de Dados
 
-- [X] 22-1: _Transformando ideias em um modelo de banco de dados_
+- [X] 22-1: _Transformando ideias em um modelo de banco de dados - Parte 1_
 - [X] 22-2: _Normalização, Formas Normais e Dumps_
 - [X] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
 - [X] 22-3: _[Projeto - One For All](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--One_For_All)_
 
-##### Bloco 23: Introdução - NoSQL
+##### Bloco 23: Introdução ao MongoDB
+- [X] 23-1: _Introdução - NoSQL_
+- [X] 23-2: _MongoDB - Introdução_
+- [X] 23-3: _Filter Operators_
+- [X] 23-4: _[Projeto - Data Flights](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--DataFlights)_
 
-- [X] 23-1: _MongoDB - Introdução_
-- [X] 23-2: _Filter Operators_
-- [X] 23-3: _[Projeto - Data Flights](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--DataFlights)_
-
-##### Bloco 24: Updates
+##### Bloco 24: MongoDB: Updates Simples e Complexos
 
 - [X] 24-1: _Updates Simples_
 - [X] 24-2: _Updates Complexos - Arrays - Parte 1_
 - [X] 24-3: _Updates Complexos - Arrays - Parte 2_
 - [X] 24-4: _[Projeto - Commerce](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--MongoDB_Commerce)_
 
-##### Bloco 25: Aggregation Framework
+##### Bloco 25: MongoDB: Aggregation Framework
 
 - [X] 25-1: _Aggregation Framework - Part 1_
 - [X] 25-2: _Aggregation Framework - Part 2_
 - [X] 25-3: _[Projeto - Aggregations](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--Aggregations)_
 
-##### Bloco 26: Intro - NodeJS
+##### Bloco 26:  Introdução ao desenvolvimento Web com Node.js
 
 - [X] 26-1: _NodeJS - Introdução_
 - [X] 26-2: _NodeJS - Fluxo Assíncrono_
@@ -194,7 +203,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 26-5: _Express: Middlewares_
 - [X] 26-6: _[Projeto - Talker Manager](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--Talker_Manager)_
 
-##### Bloco 27: NodeJS
+##### Bloco 27: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 - [X] 27-1: _Introdução - Arquitetura de Software_
 - [X] 27-2: _Arquitetura de Software - Camada de Model_
 - [X] 27-3: _Arquitetura de Software - Camada de Controller e Service_
@@ -202,34 +211,35 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 27-5: _Arquitetura de Software - Testando as Camadas_
 - [X] 27-6: _[Projeto - Store Manager](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--Store_Manager)_
 
-##### Bloco 29: NodeJS
+##### Bloco 29: Node.js: Autenticação e Upload de Arquivos
 
 - [X] 29-1: _NodeJS - JWT - (JSON Web Token)_
 - [X] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [X] 29-3: _[Projeto - Cookmaster](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--Cookmaster)_
+- [X] 29-3: _NodeJS - Testando APIs com Testes de Integração_
+- [X] 29-4: _[Projeto - Cookmaster](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--Cookmaster)_
 
-##### Bloco 30: Introdução - Deploy
-
-- [X] 30-1: _Infraestrutura - Deploy com Heroku_
-- [X] 30-2: _Deploy - Gerenciadores de Processos_
-- [X] 30-3: _[Projeto - Stranger Things (Back-End)](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Full_Stack--Stranger_Things--Back_End)_
+##### Bloco 30: Introdução - Deployment
+- [X] 30-1: _Introdução - Deploy_
+- [X] 30-2: _Infraestrutura - Deploy com Heroku_
+- [X] 30-3: _Deploy - Gerenciadores de Processos_
+- [X] 30-4: _[Projeto - Stranger Things (Back-End)](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Full_Stack--Stranger_Things--Back_End)_
 - [X] 30-3: _[Projeto - Stranger Things (Front-End)](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Full_Stack--Stranger_Things--Front_End)_
 
-##### Bloco 31: Projeto
+##### Bloco 31: Arquitetura de Software
 
-##### Bloco 32: Arquitetura de Software
+- [X] 31-1: _Arquitetura - Princípios SOLID_
+- [X] 31-2: _ORM - Interface da aplicação com o banco de dados_
+- [X] 31-3: _ORM - Associations_
+- [X] 31-4: _Arquitetura de Software - DDD_
+- [X] 31-5: _Boas práticas na escrita de testes_
+- [X] 31-6: _[Projeto - API de Blogs](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--Blogs_API)_
 
-- [X] 32-1: _Arquitetura - Princípios SOLID_
-- [X] 32-2: _ORM - Interface da aplicação com o banco de dados_
-- [X] 32-3: _Arquitetura de Software - DDD_
-- [X] 32-4: _Boas práticas na escrita de testes_
-- [X] 32-3: _[Projeto - API de Blogs](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--Blogs_API)_
-
-##### Bloco 33: Sockets
-
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
+##### Bloco 32: Sockets
+- [X] 32-1: _Arquitetura de Software - Camada de View_
+- [X] 32-2: _Sockets - TCP/UDP & NET_
+- [X] 32-3: _Sockets - Socket.io_
+- [X] 32-4: _Sockets - Praticando Socket.io_
+- [ ] 32-5: _[Projeto - Webchat]()_
 
 ##### Bloco 34: Projeto
 
