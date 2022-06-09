@@ -239,11 +239,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 32-2: _Sockets - TCP/UDP & NET_
 - [X] 32-3: _Sockets - Socket.io_
 - [X] 32-4: _Sockets - Praticando Socket.io_
-- [ ] 32-5: _[Projeto - Webchat]()_
+- [X] 32-5: _[Projeto - Webchat](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--Webchat)_
 
-##### Bloco 34: Projeto
+##### Bloco 33: Projeto Final Back-End
 
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
+- [X] 33-1: _[Projeto em Grupo - Projeto - App de Delivery](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Back_End--Delivery_App)_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
