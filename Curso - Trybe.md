@@ -247,21 +247,43 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 35: Introdução - Ciência da Computação
+##### Bloco 34: Introdução à Python
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e seguranÃ§a_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+- [X] 34-1: _Introdução - Ciência da Computação_
+- [X] 34-2: _Aprendendo Python_
+- [X] 34-3: _Entrada e Saída de Dados_
+- [X] 34-4: _Testes_
+- [X] 34-5: _[Projeto - Job Insights](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Computer_Science--Job_Insights)_
 
-##### Bloco 36: Python
+##### Bloco 35: Orientação a Objetos e Padrões de Projeto.
+- [X] 35-1: _Introdução à programação orientada a objetos_
+- [X] 35-2: _Herança, Composição e Interfaces_
+- [X] 35-3: _Padrões de projeto_
+- [X] 35-4: _[Projeto - Relatórios de Estoque](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Computer_Science--Inventory_Report)_
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 36-4: _Entrada e Saída de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
+##### Bloco 36: Redes e Raspagem de Dados
 
-# [...]
+- [X] 36-1: _Arquitetura de redes_
+- [X] 36-2: _Redes de computadores, ferramentas e segurança_
+- [X] 36-3: _Raspagem de Dados_
+- [X] 36-4: _[Projeto - Tech news](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Computer_Science--Tech_News)_
+
+##### Bloco 37: Algoritmos
+- [X] 37-1: _Complexidade de Algoritmos_
+- [X] 37-2: _Recursividade e Estratégias para solução de problemas_
+- [X] 37-3: _Algoritmos de ordenação e busca_
+- [X] 37-4: _[Projeto - Algoritmos](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Computer_Science--Algorithms)_
 
 
+##### Bloco 38: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+- [X] 38-1: _Arquitetura de Computadores_
+- [X] 38-2: _Arrays_
+- [X] 38-3: _Hashmap e Dict_
+- [X] 38-4: _Set_
+- [X] 38-5: _[Projeto - Restaurant Orders](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Computer_Science--Restaurant_Orders)_
+
+
+##### Bloco 39: Estrutura de Dados II: Hashmaps e Sets
+- [X] 39-1: _Nó e Listas Encadeadas_
+- [X] 39-2: _Pilhas e Filas_
+- [X] 39-3: _[Projeto - TING - Trybe Is Not Google](https://github.com/MarcosAlbuquerque/Cursos--Trybe--Computer_Science--T.I.N.G)_
