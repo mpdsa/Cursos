@@ -1,4 +1,4 @@
-### Cada arquivo contém uma linha do tempo das minhas atividades dos respectivos cursos aprendidos ou em desenvolvimento.
+### Cada arquivo contém uma linha do tempo do que aprendi em cada Curso
 <hr />
 
 Curso
